@@ -1,4 +1,4 @@
-# ISRRealEstate-NLP
+# ISRRealEstate-NLP and Interactive Folium Map
 Israel Real estate - NLP
 Israel Real estate project¶
 Predicing Real estate Price
